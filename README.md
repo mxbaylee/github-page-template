@@ -16,6 +16,7 @@ Update the port
 
 ```
 npm run reroll-port
+npm pkg set 'homepage'='/'$(basename "$PWD")
 ```
 
 Update git
