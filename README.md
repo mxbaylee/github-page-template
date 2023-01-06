@@ -8,7 +8,7 @@ gh-pages easily!
 Clone the template
 
 ```
-git clone git@github.com:bayleedev/material-dashboard.git PROJECT_NAME
+git clone git@github.com:mxbaylee/github-page-template.git PROJECT_NAME
 cd PROJECT_NAME
 ```
 
