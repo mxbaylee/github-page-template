@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #9fe5c1;
+  margin: 0;
+  font-family: Arial, sans-serif; /* Use Arial as primary font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Consolas, monospace; /* Use Consolas for code */
+}
+
+.App {
+  @apply container mx-auto grid grid-cols-1 lg:grid-cols-5 font-sans;
+  /*
+  .title-bar {
+    @apply col-span-1, lg:col-span-2;
+  }
+  .app-sidebar {
+    @apply col-span-1, lg:col-span-3;
+  }
+  */
+}

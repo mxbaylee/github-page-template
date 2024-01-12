@@ -1,14 +1,20 @@
 import React from 'react';
-import './App.scss';
+import './App.css';
 
 function App() {
   return (
     <>
-      <main>
-        <div>
+      <div className="App">
+        <div className="title-bar">
+          <span>Baylee.dev Template</span>
+        </div>
+        <div className="app-sidebar">
+          Sidebar
+        </div>
+        <div className="app-content">
           Hello world!
         </div>
-      </main>
+      </div>
     </>
   );
 }
