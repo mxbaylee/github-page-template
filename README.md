@@ -52,3 +52,13 @@ npm start
 ```
 npm run deploy
 ```
+
+# 🕵️🏼 Todo
+
+- [ ] Update `public/manifest.json` with new app details
+- [ ] Update logos
+    - [ ] `public/favicon.ico` 16x16
+    - [ ] `public/logo192.png` 192x192
+    - [ ] `public/logo241.png` 241x241
+- [ ] Update `package.json` with new app details
+- [ ] Update `readme.md`
