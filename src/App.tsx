@@ -9,7 +9,7 @@ function App() {
           <span>Baylee.dev Template</span>
         </div>
         <div className="app-sidebar">
-          Sidebar
+          <a href="#">Sidebar</a>
         </div>
         <div className="app-content">
           Hello world!

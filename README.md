@@ -15,7 +15,7 @@ cd PROJECT_NAME
 Update the port
 
 ```
-npm run reroll-port
+npm run reroll:port
 npm pkg set 'homepage'='/'$(basename "$PWD")
 ```
 
